@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@chakra-ui/core": "^0.8.0",
+    "@chakra-ui/provider": "^2.0.23",
     "@chakra-ui/react": "^2.0.0",
     "@emotion/core": "^11.0.0",
     "@emotion/react": "^11.9.0",
@@ -12,6 +13,7 @@
     "@testing-library/react": "^13.2.0",
     "@testing-library/user-event": "^14.2.0",
     "emotion-theming": "^11.0.0",
+    "framer-motion": "^7.6.7",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
